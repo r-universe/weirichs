@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "eatRep",
+    "oncran": true
+  },
+  {
+    "package": "eatTools",
+    "oncran": true
+  }
+]
